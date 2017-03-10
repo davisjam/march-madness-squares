@@ -11,7 +11,7 @@ The winner is the person whose square(s) have the most hits, perhaps weighted by
 # An improved prediction
 
 This repository contains tools to help you choose "optimal" squares based on historical data.
-See [my blog post](people.cs.vt.edu/~davisjam/blog-technical.html#march-madness-squares) for details.
+See [my blog post](http://people.cs.vt.edu/~davisjam/blog-technical.html#march-madness-squares) for details.
 
 ## `extract-squares.pl`
 
