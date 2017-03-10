@@ -1,0 +1,476 @@
+First Four
+Final
+16
+Hampton
+74
+16
+Manhattan
+64
+Final
+11
+BYU
+90
+11
+Ole Miss
+94
+Final
+16
+Robert Morris
+81
+16
+North Florida
+77
+Final
+11
+Dayton
+56
+11
+Boise State
+55
+Midwest
+Final
+3
+Notre Dame
+69
+14
+Northeastern
+65
+Final
+6
+Butler
+56
+11
+Texas
+48
+Final
+8
+Cincinnati
+66
+9
+Purdue
+65
+Final
+1
+Kentucky
+79
+16
+Hampton
+56
+Final
+2
+Kansas
+75
+15
+New Mexico St
+56
+Final
+5
+West Virginia
+68
+12
+Buffalo
+62
+Final
+7
+Wichita State
+81
+10
+Indiana
+76
+Final
+4
+Maryland
+65
+13
+Valparaiso
+62
+Final
+1
+Kentucky
+64
+8
+Cincinnati
+51
+Final
+6
+Butler
+64
+3
+Notre Dame
+67
+Final
+7
+Wichita State
+78
+2
+Kansas
+65
+Final
+5
+West Virginia
+69
+4
+Maryland
+59
+Final
+3
+Notre Dame
+81
+7
+Wichita State
+70
+Final
+1
+Kentucky
+78
+5
+West Virginia
+39
+Final
+1
+Kentucky
+68
+3
+Notre Dame
+66
+East
+Final
+1
+Villanova
+93
+16
+Lafayette
+52
+Final
+8
+NC State
+66
+9
+LSU
+65
+Final
+7
+Michigan State
+70
+10
+Georgia
+63
+Final
+5
+UNI
+71
+12
+Wyoming
+54
+Final
+2
+UVA
+79
+15
+Belmont
+67
+Final
+4
+Louisville
+57
+13
+UC Irvine
+55
+Final
+3
+Oklahoma
+69
+14
+Albany
+60
+Final
+6
+Providence
+53
+11
+Dayton
+66
+Final
+1
+Villanova
+68
+8
+NC State
+71
+Final
+7
+Michigan State
+60
+2
+UVA
+54
+Final
+11
+Dayton
+66
+3
+Oklahoma
+72
+Final
+5
+UNI
+53
+4
+Louisville
+66
+Final
+8
+NC State
+65
+4
+Louisville
+75
+Final
+3
+Oklahoma
+58
+7
+Michigan State
+62
+Final
+4
+Louisville
+70
+7
+Michigan State
+76
+Winning Team Logo
+National Championship
+Final
+1
+Wisconsin
+63
+68
+1
+Duke
+Final
+1
+Kentucky
+64
+1
+Wisconsin
+71
+Final
+7
+Michigan State
+61
+1
+Duke
+81
+West
+Final
+3
+Baylor
+56
+14
+Georgia State
+57
+Final
+2
+Arizona
+93
+15
+Texas Southern
+72
+Final
+6
+Xavier
+76
+11
+Ole Miss
+57
+Final
+7
+VCU
+72
+10
+Ohio St
+75
+Final
+4
+North Carolina
+67
+13
+Harvard
+65
+Final
+5
+Arkansas
+56
+12
+Wofford
+53
+Final
+8
+Oregon
+79
+9
+Oklahoma St
+73
+Final
+1
+Wisconsin
+86
+16
+Coast Carolina
+72
+Final
+10
+Ohio St
+58
+2
+Arizona
+73
+Final
+6
+Xavier
+75
+14
+Georgia State
+67
+Final
+5
+Arkansas
+78
+4
+North Carolina
+87
+Final
+1
+Wisconsin
+72
+8
+Oregon
+65
+Final
+1
+Wisconsin
+79
+4
+North Carolina
+72
+Final
+6
+Xavier
+60
+2
+Arizona
+68
+Final
+1
+Wisconsin
+85
+2
+Arizona
+78
+South
+Final
+3
+Iowa State
+59
+14
+UAB
+60
+Final
+6
+SMU
+59
+11
+UCLA
+60
+Final
+5
+Utah
+57
+12
+SF Austin
+50
+Final
+4
+Georgetown
+84
+13
+E Washington
+74
+Final
+1
+Duke
+85
+16
+Robert Morris
+56
+Final
+7
+Iowa
+83
+10
+Davidson
+52
+Final
+8
+San Diego State
+76
+9
+St John's
+64
+Final
+2
+Gonzaga
+86
+15
+North Dakota St
+76
+Final
+11
+UCLA
+92
+14
+UAB
+75
+Final
+5
+Utah
+75
+4
+Georgetown
+64
+Final
+1
+Duke
+68
+8
+San Diego State
+49
+Final
+7
+Iowa
+68
+2
+Gonzaga
+87
+Final
+11
+UCLA
+62
+2
+Gonzaga
+74
+Final
+1
+Duke
+63
+5
+Utah
+57
+Final
+1
+Duke
+66
+2
+Gonzaga
+52
